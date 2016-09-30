@@ -1,0 +1,12 @@
+
+                       ** Limitación de Garantías **
+
+La información contenida en este documento, incluyendo el código fuente, es
+presentado como está, sin ninguna clase de garantía, ni implícita ni explícita
+sobre la precisión, completitud o idoneidad para un propósito particular. Los
+consejos, estrategias y herramientas contenidas en este trabajo pueden no ser
+adecuados para cada situación. En ningún caso, ni el autor ni la Universidad
+Nacional de Colombia serán responsables por pérdida de información o por
+cualquier daño o reclamo que pudiera darse por el uso de la información
+contenida o las herramientas descritas en este documento.
+
